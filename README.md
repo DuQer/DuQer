@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 
-- 🌱 I’m currently learning **Python and Flask**  
+- 🏫 Maritime University of Szczecin student (Master's degree)
+- 🌱 I’m currently learning **Python and Flask**
 - 🌇 I'm living in Szczecin
 - 💼 Looking for my first job
 - 📫 You can contact me - **marcinurbanski100@gmail.com**
