@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 
-- 🏫 Maritime University of Szczecin student (Master's degree)
-- 🌱 I’m currently learning **Python**
-- 💼 Looking for my first job (remote/Szczecin)
+- 🏫 Bachelor of Engineering in Maritime University of Szczecin 
+- 🌱 Developing in DevOps skills
+- 💼 Working in Tietoevry Poland(Szczecin)
 - 📫 You can contact me - **marcinurbanski100@gmail.com**
 <br/>  
 
